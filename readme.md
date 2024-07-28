@@ -11,11 +11,13 @@ will be called.
 Commit for YourProject -> global-git-hooks hook is executed -> global-git-hooks
 calls the hook of YourProject.
 
-## Installation From the global-git-hooks directory run the following command:
+## Installation
+From the global-git-hooks directory run the following command:
 
 ```bash ./install.sh ```
 
-## Uninstall Inspect the contents of uninstall.sh and make sure that you are
+## Uninstall
+Inspect the contents of uninstall.sh and make sure that you are
 okay with it, then run it.
 
 ```bash ./uninstall.sh ```
