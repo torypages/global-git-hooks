@@ -5,7 +5,7 @@ on your system.
 
 The installation will alter the git global hooks path to point to this project
 so that when hooks run this project will be run first. After running any code
-from this project, the hooks local to project that the commit being executed on
+from this project, the hooks local to project that the commit is being executed on
 will be called.
 
 Commit for YourProject -> global-git-hooks hook is executed -> global-git-hooks
